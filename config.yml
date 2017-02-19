@@ -1,0 +1,7 @@
+http:
+  port: 60002
+pg:
+  host: localhost
+  username: postgres
+  db: postgres
+secret: timetable
